@@ -1,0 +1,10 @@
+﻿  Doodle Jump Game.cpp
+D:\Visual Studio 2019 workspace\Doodle Jump Game\Doodle Jump Game\Doodle Jump Game.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio 2019 workspace\Doodle Jump Game\Doodle Jump Game\Doodle Jump Game.cpp(51,18): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Visual Studio 2019 workspace\Doodle Jump Game\Doodle Jump Game\Doodle Jump Game.cpp(52,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Doodle Jump Game\Doodle Jump Game\Doodle Jump Game.cpp(58,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2019 workspace\Doodle Jump Game\Doodle Jump Game\Doodle Jump Game.cpp(67,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Doodle Jump Game\Doodle Jump Game\Doodle Jump Game.cpp(67,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Doodle Jump Game\Doodle Jump Game\Doodle Jump Game.cpp(73,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Doodle Jump Game\Doodle Jump Game\Doodle Jump Game.cpp(73,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Doodle Jump Game.vcxproj -> D:\Visual Studio 2019 workspace\Doodle Jump Game\Debug\Doodle Jump Game.exe
